@@ -1,4 +1,4 @@
-Petit programme permettant de remplacer une chaine de caractère en entrée par des émojis renvoyés sur la sortie standard:
+Petit programme (réalisé de manière bien trop complexe poue ce que ça fait) permettant de remplacer une chaine de caractère en entrée par des émojis renvoyés sur la sortie standard:
 
 Instruction d'utilisations:
 ```shell
